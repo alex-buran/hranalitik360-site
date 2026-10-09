@@ -233,6 +233,7 @@ h3.baslik { font-size: clamp(1.9rem, 3.2vw, 2.6rem); font-stretch: 74%; line-hei
 .alt { background: var(--murekkep); color: var(--acik); padding-block: 2.5rem; font-size: .95rem; }
 .alt .kap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem 2rem; align-items: baseline; }
 .alt a { color: var(--beyaz); text-underline-offset: .25em; }
+.alt a.imza { color: #FF5A2A; }
 .alt ul { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
 
 /* ---- Hareket: görünür olan varsayılan; yalnızca geliştirme ---- */
