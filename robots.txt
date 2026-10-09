@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hranalitik360.com.tr/sitemap.xml
